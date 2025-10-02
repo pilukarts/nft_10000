@@ -1,0 +1,20 @@
+{
+  "collection_name": "My NFT Collection",
+  "collection_description": "A unique collection of 10,000 NFTs with various traits",
+  "output_dir": "output",
+  "layers_dir": "layers",
+  "image_size": [1000, 1000],
+  "layer_order": [
+    "background",
+    "body",
+    "clothes",
+    "eyes",
+    "mouth",
+    "accessories",
+    "special"
+  ],
+  "metadata": {
+    "creator": "Your Name",
+    "external_url": "https://yourwebsite.com"
+  }
+}
